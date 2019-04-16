@@ -22,3 +22,6 @@ http://webpagetest.org/result/190416_D1_fb1624e137ba711432737847409b55a5/
 ## Images from pixabay
 - https://pixabay.com/illustrations/vector-winter-landscape-sunset-3834083/
 - https://pixabay.com/illustrations/illustration-vector-mountains-3843801/
+ 
+ ## Google Analytics
+ - https://analytics.google.com/analytics/web/provision/?authuser=0#/a138468819w199116194p193560829/admin/tracking/tracking-code/
